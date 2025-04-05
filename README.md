@@ -5,4 +5,11 @@
 
 Если нужно что-то изменить или добавить, дайте знать!
 
+Библиотека 👇👇👇
+pypi.org
+https://pypi.org/project/aiogram/
+
+Команда для установки 
+pip install aiogram
+
 Мой тг для помощи @pbnne1
